@@ -1,0 +1,11 @@
+Model Information:
+* title:	Venti Genshin Impact - Venti
+* source:	https://sketchfab.com/3d-models/venti-genshin-impact-venti-968b993a3e144c2399a8d634c6ed0aaf
+* author:	Fullsus (https://sketchfab.com/Fullsus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Venti Genshin Impact - Venti" (https://sketchfab.com/3d-models/venti-genshin-impact-venti-968b993a3e144c2399a8d634c6ed0aaf) by Fullsus (https://sketchfab.com/Fullsus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
